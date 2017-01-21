@@ -1,4 +1,6 @@
-Newly used function, technique or particular thing  
+# Bash
+
+## Newly used function, technique or particular thing  
 1. Let's Echo: echo  
 2. Looping and Skipping: for, Let  
 3. A Personalized Echo: read  
